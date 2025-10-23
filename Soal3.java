@@ -1,6 +1,6 @@
 public class Soal3 {
     public static void main(String[] args) {
-        String [] namaHewan = {"Harimau", "Kucing", "Anjing", "Hiu"};
+        String [] namaHewan = {"Harimau", "Kucing", "Anjing", "Hiu", "ikan"};
 
         for (String nama : namaHewan) {
             if (nama.length() > 4) {
@@ -9,3 +9,4 @@ public class Soal3 {
         }
     }
 }
+
